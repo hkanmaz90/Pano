@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  
+    
+    <string name="app_name">Pano</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="yenikayit">Yeni Kayıt</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="title_activity_new_user_page">NewUserPage</string>
+    <string name="kullaniciadi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="sifre2">Şifre Tekrarla</string>
+    <string name="giris">Giriş</string>
+    <string name="yeniDuyuru">Duyuru Ekle</string>
+    <string name="logout">Logout</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="adsoyad">Ad Soyad</string>
+    <string name="title_activity_list_page">ListPage</string>
+    <string name="tarih">26.01.2015</string>
+    <string name="duyuru">Aaaaaaaaa aaaaaaaa lahkdjasdhk kjshdjhasjhd kasjdkjhaskjhd kljashkd</string>
+    <string name="title_activity_duyuru_ekle_page">DuyuruEklePage</string>
+    <string name="lblDuyuru">Duyurunuzu Yazınız..</string>
+    <string name="ara">Ara</string>
+    <string name="sil">Sil</string>
+    <string name="title_activity_duyuru_detay_page">DuyuruDetayPage</string>
+    <string name="title_activity_detay_duyurular_page">DetayDuyurularPage</string>
+
+</resources>
